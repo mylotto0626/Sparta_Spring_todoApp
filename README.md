@@ -1,7 +1,7 @@
-### 내일배움캠프 스프링으로 일정관리 앱 만들기
+# Sparta_Spring_todoApp
+ 스파르타 내일배움캠프 스프링 숙련 주차 개인과제 레포지토리
 
-## api 
-![스크린샷 2024-08-13 172004](https://github.com/user-attachments/assets/fb10d03e-42b1-4b14-b4a9-0f036579a6c5)
 
 ## ERD
-![스크린샷 2024-08-13 200104](https://github.com/user-attachments/assets/1e7589e7-e326-49d1-b712-e031735b0516)
+https://www.erdcloud.com/d/r8eCCjNi42iZyrQ45
+![image](https://github.com/user-attachments/assets/179c824a-e312-4349-89b3-ec52398a2487)
